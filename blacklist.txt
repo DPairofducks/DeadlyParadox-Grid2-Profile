@@ -23,6 +23,7 @@ Perdition
 Cauterized
 Decomposing Aura
 Oath of the Elder Druid
+Gift of the Golden Val'kyr
 Mind Blast
 Mystic Touch
 Razorice
@@ -172,34 +173,16 @@ Event Horizon
 Unstable Antimatter
 Azerite Radiation
 Suffering
-Fel Armor
-The Fourth Rune
+Consecrated Blade
 Angelic Bulwark
-Polar Winds
-Gift of the Golden Val'kyr
-Activated Defense Systems
-Unstoppable Conflict
-Azure Arise
-Hardening Scales
-Shrinking Form
-Quaking
-Scornful Haste
-Salvo
-Silent Lava
-Rotting from Within
-Recently Failed
-Diurna's Gaze
-Blood Draw
-Masquerade
 Empyrean Legacy
-Price of Power
-Storm Dominance
-Earth Dominance
-Frost Dominance
-Flame Dominance
-Primal Break
-Well-Honed Instincts
-Shattering Presence
-Thundering Presence
-Chilling Presence
-Blistering Presence
+Fel Armor
+Gift of the Golden Val'kyr
+Rotting from Within
+Elimination Protocol
+Overwhelming Rage
+Blast Wave
+Recently Saved by the Light
+Igniting Roar
+Searing Heat
+Blood Draw
