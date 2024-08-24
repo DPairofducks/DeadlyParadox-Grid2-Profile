@@ -257,3 +257,65 @@ Solar Winds
 Seeking Inferno
 Overheated
 Flare Bomb
+Empowered Feather
+Diurna's Gaze
+Activated Defense Systems <393798>
+Shatter Soul <395035>
+Potion of Withering Dreams <423416>
+Flame Dominance <396106>
+Frost Dominance <396109>
+Primal Break <374864>
+Cyclone <388290>
+Set Fire to the Pain <453286>
+Depleted Starlight <460536>
+Battered and Bruised <455847>
+Chunky Viscera <438657>
+Deepening Darkness <446836>
+Shadow-Binding Ritual Knife <440389>
+Unseeming Blight <445570>
+Crimson Rain <443305>
+Phase Lunge <435410>
+Shattering Sweep <464442>
+Expose <438845>
+Deepening Darkness <446836>
+Will of the Dawn <456779>
+Recently Failed <313015>
+Unstable Infusion <443274>
+Satiated <326809>
+Ingest Black Blood <442437>
+Feast <437093>
+Cosmic Ascension <461910>
+Void Essence <463767>
+Grasping Slash <433785>
+Ambush <434083>
+Faded <432119>
+Radiant Light <449042>
+Black Edge <431494>
+Shadow Shroud <426736>
+Ground Pound <425974>
+Concussive Smash <464876>
+Molten Metal <428161>
+Malevolence <442726>
+Blessing from Beyond <462661>
+Mass Tremor <451871>
+Curse of Entropy <450095>
+Sun's Avatar <431907>
+Dawnlight <431380>
+Pyrogenics <387096>
+Frigid Cold <328181>
+Dark Exile <323198>
+Champion's Boon <345323>
+Chilled <328664>
+Chill Scythe <324381>
+Razorshard Ice <328212>
+Necrotic Bolt <320462>
+Chilled <287295>
+Necrotic Bolt <320170>
+Blizzard <327870>
+Pheromone Veil <441795>
+Subjugate <434722>
+Corrupted Coating <442285>
+Web Bolt <443427>
+Concussive Smash <464876>
+Ground Pound <425974>
+Molten Metal <428161>
