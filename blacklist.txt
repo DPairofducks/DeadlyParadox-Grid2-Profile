@@ -296,7 +296,7 @@ Ground Pound <425974>
 Concussive Smash <464876>
 Molten Metal <428161>
 Malevolence <442726>
-Blessing from Beyond <462661>
+Voidbinding <462661>
 Mass Tremor <451871>
 Curse of Entropy <450095>
 Sun's Avatar <431907>
@@ -319,3 +319,35 @@ Web Bolt <443427>
 Concussive Smash <464876>
 Ground Pound <425974>
 Molten Metal <428161>
+Candlelight <422807>
+Entropic Barrage <460600>
+Experience Eliminated <306600>
+Experience Eliminated
+Reaction Trauma <464628>
+Lingering Erosion <440193>
+Fixate <442250>
+Rift Essence <465136>
+Broken Carapace <442992>
+Mark of Paranoia <455849>
+Burning Rage <460281>
+Mark of Rage <455850>
+Venomous Rain <438656>
+Exhaust Fumes
+Soaked in Oil <473507>
+Power Word: Fortitude <21562>
+Shell Cover <472710>
+Toxic Fumes <1218343>
+Marked For "Recycling" <1220648>
+LifeLink Emergency Activator
+Thunderclap <448492>
+Scrapfield 9001 Recharging <472170>
+Radiant Flame <451764>
+Battle-Scarred Veteran <456447>
+Wild Wallop <423501>
+Heartbroken <71909>
+Eternal Rest <267924>
+Void Extraction <472764>
+Mighty Smash <1215741>
+Void Pulsar <1216943>
+Hypercharged <1218708>
+Heartseeking Health Injector <452831>
