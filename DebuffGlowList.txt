@@ -1,0 +1,39 @@
+Prototype Powercoil <1218704>
+Stormfury Finger Gun <466509>
+Spray and Pray <466545>
+Jagged Quarrel <330532>
+One-Hand Headlock <426277>
+Throw Cinderbrew <432182>
+Kinetic Explosive Gel <473713>
+Gigazap <468815>
+Thunder Punch <466188>
+"Hidden" Flame Cannon <285443>
+Mega-Zap <291928>
+Mega-Zap <292267>
+Impale <427621>
+Lunging Strike <424426>
+Caltrops <453461>
+Purification <448787>
+Impale <427621>
+Pierce Armor <424414>
+Savage Mauling <447439>
+Sacrificial Flame <446403>
+Rock Lance <1215934>
+Mind Lash <262794>
+Caustic Compound <262270>
+Mine Blast <262348>
+Jagged Cut <257544>
+Propellant Blast <259940>
+Homing Missile <260838>
+Energized Barrage <427616>
+Chaotic Corruption <424739>
+Decaying Blight <330700>
+Withering Blight <341949>
+Ricocheting Blade <333861>
+Bone Spear <342675>
+Jagged Gash <323406>
+On the Hook <321768>
+Well of Darkness <473576>
+Screwed! <1217261>
+Screw Up <1216509>
+Hot Hot Heat <465325>
