@@ -351,3 +351,12 @@ Mighty Smash <1215741>
 Void Pulsar <1216943>
 Hypercharged <1218708>
 Heartseeking Health Injector <452831>
+High Roller! <460444>
+Galvanized Spite <472225>
+Blistering Spite <472222>
+Lunar Storm <451803>
+Lingering Voltage <1217122>
+Sonic Ba-Boom <465232>
+Posi-Polarization <1216911>
+Nega-Polarization <1216934>
+Unstable Shrapnel <1218342>
