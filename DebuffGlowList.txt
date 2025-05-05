@@ -1,6 +1,4 @@
 Prototype Powercoil <1218704>
-Stormfury Finger Gun <466509>
-Spray and Pray <466545>
 Jagged Quarrel <330532>
 One-Hand Headlock <426277>
 Throw Cinderbrew <432182>
@@ -10,7 +8,6 @@ Thunder Punch <466188>
 "Hidden" Flame Cannon <285443>
 Mega-Zap <291928>
 Mega-Zap <292267>
-Impale <427621>
 Lunging Strike <424426>
 Caltrops <453461>
 Purification <448787>
@@ -27,8 +24,6 @@ Propellant Blast <259940>
 Homing Missile <260838>
 Energized Barrage <427616>
 Chaotic Corruption <424739>
-Decaying Blight <330700>
-Withering Blight <341949>
 Ricocheting Blade <333861>
 Bone Spear <342675>
 Jagged Gash <323406>
@@ -37,3 +32,9 @@ Well of Darkness <473576>
 Screwed! <1217261>
 Screw Up <1216509>
 Hot Hot Heat <465325>
+Withering Flames <471927>
+Stormfury Finger Gun <1225933>
+Spray and Pray <469369>
+Disintegration Beam <1215481>
+Overloaded Rockets <1214755>
+Disintegration Beam <1215488>
