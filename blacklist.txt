@@ -360,3 +360,8 @@ Sonic Ba-Boom <465232>
 Posi-Polarization <1216911>
 Nega-Polarization <1216934>
 Unstable Shrapnel <1218342>
+Radiation Sickness <469076>
+Foul Exhaust <460164>
+Unstable Crawler Mines <472061>
+Mechengineer's Canisters <1220761>
+Scatterbomb Canisters <1218491>
