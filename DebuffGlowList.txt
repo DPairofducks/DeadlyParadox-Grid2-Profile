@@ -17,7 +17,6 @@ Savage Mauling <447439>
 Sacrificial Flame <446403>
 Rock Lance <1215934>
 Mind Lash <262794>
-Caustic Compound <262270>
 Mine Blast <262348>
 Jagged Cut <257544>
 Propellant Blast <259940>
