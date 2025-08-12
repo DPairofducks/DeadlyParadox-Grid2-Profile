@@ -365,3 +365,59 @@ Foul Exhaust <460164>
 Unstable Crawler Mines <472061>
 Mechengineer's Canisters <1220761>
 Scatterbomb Canisters <1218491>
+Voidstorm <1226380>
+Blessed Hammer <204301>
+Astral Smolder <394061>
+Frozen Orb <289308>
+Frostfire Bolt <468655>
+Virulent Plague <191587>
+Blood Plague <1235372>
+Frost Fever <1235371>
+Insidious Chill <391568>
+Razorice <51714>
+Frost Fever <55095>
+Suffocating Darkness <449217>
+Gushing Wound <385042>
+Mystic Touch <113746>
+Amplifying Poison <383414>
+Deadly Poison <2818>
+Crippling Poison <3409>
+Atrophic Poison <392388>
+Ignite <12654>
+Frailty <247456>
+Moonfire <164812>
+Brittle <374557>
+Chaos Brand <1490>
+Overwhelmed <445836>
+Permeating Chill <370898>
+Overburdened Mind <373317>
+Obliteration Arcanocannon <1233999>
+Ethereal Exhaustion <1223611>
+Piercing Strand <1237212>
+Arcane Outrage <1227784>
+Overinfusion Burst <1226395>
+Arcane Expulsion <1242071>
+Shatterpulse <1250008>
+Astral Mark <1228219>
+Astral Burn <1240705>
+Astral Surge <1236207>
+Shattered Soul <1226493>
+Soulcrush <1242284>
+Fel-Singed <1221490>
+Fel Inferno <1245384>
+Soul Tether <1242883>
+Crystal Lacerations <1232760>
+Crystal Encasement <1227378>
+Shockwave Slam <1231871>
+Oath-Bound <1224737>
+Conquer <1224795>
+Vanquish <1224816>
+Starshattered <1226413>
+Fatebound <1224865>
+K'areshi Surge <1239229>
+Gloom Bite <1222341>
+Vigor <353421>
+Jazzy <348567>
+Up Tempo! <359019>
+Chain of Custody <356930>
+Devoured Anima <350010>
