@@ -37,3 +37,33 @@ Spray and Pray <469369>
 Disintegration Beam <1215481>
 Overloaded Rockets <1214755>
 Disintegration Beam <1215488>
+Manifest Matrices <1219459>
+Infusion Tether <1226311>
+Void Burst <1227052>
+Soulfire Convergence <1249065>
+Astral Harvest <1228214>
+Photon Blast <1234324>
+Void Harvest <1243901>
+Void Harvest <1243873>
+Crystalline Shockwave <1224414>
+Null Consumption <1247424>
+Reap <1228056>
+Banishment <1227549>
+Starkiller Swing <1226018>
+Galactic Smash <1225316>
+Twilight Scar <1226362>
+Netherbreaker <1228119>
+Binding Javelin <1220671>
+Toxic Regurgitation <1217439>
+Warp Strike <1227152>
+Warp Strike <1220390>
+Letter Opener <347716>
+Alchemical Residue <346844>
+Hyperlight Salvo <355642>
+Frantic Rip <357827>
+Lockdown <356943>
+Chains of Damnation <350101>
+Flagellation Protocol <349934>
+Purification Protocol <349954>
+Quickblade <355832>
+Phase Slash <1248211>
